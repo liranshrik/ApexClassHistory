@@ -1,7 +1,7 @@
 public class AccountHandler {
  
     public static Account insertNewAccount(String name){
-        //new comment 2
+        //new comment 3
         try{
             Account acc = new Account(Name = name);
             insert acc;
