@@ -1,0 +1,6 @@
+# all files to ignore #
+#######################
+lib/
+build.properties
+build.xml
+package.xml
